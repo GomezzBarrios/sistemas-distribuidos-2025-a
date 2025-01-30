@@ -1,9 +1,9 @@
-# Programación Móvil G2
+# Sistemas Distribuidos
 
-**Semestre:** 2024-B
+**Semestre:** 2025-A
 
 ## Horario
 
-| Inicio  | Fin    | Lunes | Martes                            | Miércoles | Jueves | Viernes |
-|---------|--------|-------|---------------------------------|-----------|--------|---------|
-| 7:45 am | 10:20 am |       | **Cod. 82751** Prog. 90 Grupo 2 |           |        |         |
+| Inicio  | Fin    | Lunes | Martes                            | Miércoles                         | Jueves | Viernes |
+|---------|--------|-------|---------------------------------|---------------------------------|--------|---------|
+| 6:30 pm | 8:10 pm |       | **Cod. 82739** Prog. 90 Grupo 1 | **Cod. 82739** Prog. 90 Grupo 1 |        |         |
