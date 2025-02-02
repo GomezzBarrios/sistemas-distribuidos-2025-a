@@ -1,4 +1,4 @@
-# Análisis de Sistemas
+# Sistemas Distribuidos
 
 **Semestre:** 2025-A
 
